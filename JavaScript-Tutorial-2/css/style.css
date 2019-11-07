@@ -1,0 +1,13 @@
+img{
+  width: 60vw;
+}
+
+*{
+  text-align: center;
+  font-family: monospace;
+  background-color: #333;
+  color: tomato;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

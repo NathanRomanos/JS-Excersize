@@ -1,0 +1,37 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #333;
+  color: lightgrey;
+  font-family: geneva;
+  text-align: center;
+}
+
+button{
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  color: #333;
+}
+
+button:hover{
+  background-color: wheat;
+}
+
+button:active{
+  transform: scale(0.9);
+}
+
+.img{
+  width: 50%;
+  border: 5px double wheat;
+}
+
+
+.heading{
+  margin: 10px 0;
+}
